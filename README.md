@@ -14,7 +14,7 @@ This repository contains useful codes and information related to all machine lea
 <li><a href="#">Random Forest Classification</a></li>
 </ol>
 <br></br>
-</h2> 1. Regression</h2>
+</h2> 2. Regression</h2>
 <br> </br>
 <ol>
 <li><a href="#">Decision Tree Regression</a></li>
